@@ -1,6 +1,6 @@
 # MyPe-Tracker
 MyPe Tracker is simple but effective activity tracker that can be used with any pedometer, tracker or wearable.
-It provides beautiful and intuitive-understandable UI. All you have to do is to put your steps data after clicking the activity window - and that's it! Fitness gets much easier with MyPe - that's why 'MyPe' means 'MY Pedometer'!
+It provides beautiful and intuitive-understandable UI. All you have to do is to put your steps data after clicking the activity window - and that's it! Fitness gets much easier with MyPe (to  the point, 'MyPe' means '<strong>MY Pedometer<strong/>')!
 #
 
 #Features
