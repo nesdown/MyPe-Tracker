@@ -11,4 +11,4 @@ It provides beautiful and intuitive-understandable UI. All you have to do is to 
 #
 
 #Notes
-<i>Unfortunately there is no concrete interface for automatic collecting data from fitness devices, so there's a need to put all activity data by yourself. I'm working on it now.<i/>
+<i>Unfortunately there is no concrete interface for automatic collecting data from fitness devices, so all the activity data must be added to app by yourself. I'm working on Bluetooth 4.0+ interface support now.<i/>
